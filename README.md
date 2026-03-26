@@ -7,7 +7,7 @@
 
 ## Quick Start
 
-1. **Copy this `template/` folder** to a new repository (or the root of `yourusername.github.io`).
+1. **Fork this repo** to a new repository (or the root of `yourusername.github.io`).
 2. **Find every `<!-- TODO: ... -->`** comment in the HTML files — that's every piece of content you need to replace.
 3. **Replace placeholder images** — swap `asset/images/placeholder.svg` src attributes with your own photo paths, or drop your images into `asset/images/`.
 4. **Push to GitHub Pages** — you're live.
